@@ -1,0 +1,1 @@
+This project involves developing a text-to-image generation app using the prebuilt Stable Diffusion model, hosted on Hugging Face. By leveraging Stable AI's diffusion model from the diffusers library, we can create the app without needing to code the model from scratch.
